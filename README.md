@@ -1,5 +1,6 @@
 USB Audio DAC (CM108B + MAX97220)
 Overview
+<img width="980" height="453" alt="image" src="https://github.com/user-attachments/assets/cc989d47-52d0-4228-a59a-6e8fcd2c418e" />
 
 This project is a compact USB audio DAC with a headphone amplifier.
 The board converts USB audio from a computer into an analog stereo signal and drives headphones through a 3.5 mm audio jack.
